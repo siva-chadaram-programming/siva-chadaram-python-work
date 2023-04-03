@@ -1,5 +1,4 @@
 #! /bin/bash
-
 echo $HOME
 echo $SHELL
 echo $BASH
@@ -10,4 +9,3 @@ echo $PATH
 echo $LANG
 echo $HOSTNAME
 echo $OSTYPE
-echo $EDITOR 
