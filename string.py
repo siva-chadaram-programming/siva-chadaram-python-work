@@ -7,5 +7,5 @@ def search_str(file_path, word):
             print('string exist in a file')
         else:
             print('string does not exist in a file')
-
+#filepath
 search_str(r'E:\demos\files_demos\account\sales.txt', 'laptop')
