@@ -1,0 +1,7 @@
+* A kubernetes manifest is a YAML or JSON files that describe the desired state of a object in a kubernetes cluster.
+
+* Kubernetes Storage Class: A way to describe different classes of storages available in a k8s cluster.
+
+* Persistent Volume: PV is a piece of storage in the cluster and it can be provisioned statically or dynamically by admin based on storage class.
+
+*Persistent Volume Claim: A rewuest for storage by a user.specifies size, access modes, and storage class.
