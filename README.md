@@ -1,5 +1,4 @@
 ## Hi, I am Siva Chadaram! 
-# Hi there! 👋
 Welcome to my GitHub profile.
 Let's connect! 😊
 
