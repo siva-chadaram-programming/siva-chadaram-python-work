@@ -1,0 +1,22 @@
+* Latency: Time taken to process a request.it often referes the delay between a client request and server response.
+* Traffic: Traffic referce the load on a sustem.Often measured in terms of requests per second, data volume transferred or num of concurrent users.
+* Errors: Errors are the rate or number of requests the failed.These can be due to bugs in the application, failed dependencies or an overloaded system.
+* Saturation: Satuaration measures in how full a service is it sings a resource cpu, memory, disk, bandwidth is nearing its capacity which can lead to degraded performnace.
+
+Logs VS Metrics VS Traces
+
+Logs: Logs are detailed event based info which are ideal for debugging.
+
+Log management & analysis:Managing logs from multiple sources is complex as log data will be huge and thousands of servers may exits so we need a centralized logging for analysis.
+
+Metrics: Metrics offer aggregated numerical data, great for performance monitoring.
+
+Traces: Traces show the path of a request throguh the system.(Newrelic, stack driver, dyntrace, data dog, aws x-ray, can provide trace
+
+Monitoring Tools:
+open source: Prometheus, Grafana, Nagious, Zabbix, ELK Stack( Elastic search, Log stash, kirbana) 
+Cloud Based tools: cloud watch(AWS), Stack Driver (GCP), Monitor (Azure)
+
+APM: application performance monitoring will be offered by Newrelic, Data dog, Dyntrace.
+
+
